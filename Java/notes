@@ -1,0 +1,13 @@
+// Write a java program to create a class named “vehicle” having protected class variables Licence_number, speed, color, owner_name, and a method “showdata()” to show the above details. 
+// Inherit the vehicle class and create two subclasses named “Bus” and “Car” having individual private instance variable route_no in “Bus” and manufacturer_name in “Car” 
+// and both of them having “showdata()” method showing all details of bus and car respectively with content of the super class’s “showdata()” method. 
+// Set the values of the variables 1) through constructor 2) through setData() method.
+
+
+
+// Create an interface “Department” containing attributes depName and depHead. It also has abstract methods for getting data and printing the attributes. 
+// Create a class “Hostel” containing attributes hostelName, hostelLocation and noOfRooms. The class contains methods for getting and printing the attributes. 
+// Then write “Student” class extending “Hostel” class and implementing “Department” interface. 
+// This class contains attributes studentName, regNo, electiveSubject and avgMarks. 
+// Write suitable getdata and printdata methods for this class. Also implement the abstract methods of the “Department” interface. 
+// Write a driver class to test the “Student” class. Print all the details of the student including depName and depHead.
